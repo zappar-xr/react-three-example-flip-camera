@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-three-example-flip-camera/static/css/main.559d2a52.chunk.css",
-    "main.js": "/react-three-example-flip-camera/static/js/main.2a44fc38.chunk.js",
-    "main.js.map": "/react-three-example-flip-camera/static/js/main.2a44fc38.chunk.js.map",
-    "runtime-main.js": "/react-three-example-flip-camera/static/js/runtime-main.9b19edd6.js",
-    "runtime-main.js.map": "/react-three-example-flip-camera/static/js/runtime-main.9b19edd6.js.map",
-    "static/js/2.f209421f.chunk.js": "/react-three-example-flip-camera/static/js/2.f209421f.chunk.js",
-    "static/js/2.f209421f.chunk.js.map": "/react-three-example-flip-camera/static/js/2.f209421f.chunk.js.map",
-    "static/js/3.f6848e74.chunk.js": "/react-three-example-flip-camera/static/js/3.f6848e74.chunk.js",
-    "static/js/3.f6848e74.chunk.js.map": "/react-three-example-flip-camera/static/js/3.f6848e74.chunk.js.map",
+    "main.css": "/react-three-example-flip-camera/static/css/main.4b6c77eb.chunk.css",
+    "main.js": "/react-three-example-flip-camera/static/js/main.922c1229.chunk.js",
+    "main.js.map": "/react-three-example-flip-camera/static/js/main.922c1229.chunk.js.map",
+    "runtime-main.js": "/react-three-example-flip-camera/static/js/runtime-main.2b27a4e4.js",
+    "runtime-main.js.map": "/react-three-example-flip-camera/static/js/runtime-main.2b27a4e4.js.map",
+    "static/js/2.1ccf9764.chunk.js": "/react-three-example-flip-camera/static/js/2.1ccf9764.chunk.js",
+    "static/js/2.1ccf9764.chunk.js.map": "/react-three-example-flip-camera/static/js/2.1ccf9764.chunk.js.map",
+    "static/js/3.6eb1e7d4.chunk.js": "/react-three-example-flip-camera/static/js/3.6eb1e7d4.chunk.js",
+    "static/js/3.6eb1e7d4.chunk.js.map": "/react-three-example-flip-camera/static/js/3.6eb1e7d4.chunk.js.map",
     "face_tracking_model.zbin": "/react-three-example-flip-camera/482727c0e7dd40d73f5aae47f238ad61.zbin",
     "face_mesh_face_model.zbin": "/react-three-example-flip-camera/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
     "face_mesh_full_head_simplified_model.zbin": "/react-three-example-flip-camera/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/react-three-example-flip-camera/index.html",
-    "static/css/main.559d2a52.chunk.css.map": "/react-three-example-flip-camera/static/css/main.559d2a52.chunk.css.map",
-    "static/js/2.f209421f.chunk.js.LICENSE.txt": "/react-three-example-flip-camera/static/js/2.f209421f.chunk.js.LICENSE.txt",
+    "static/css/main.4b6c77eb.chunk.css.map": "/react-three-example-flip-camera/static/css/main.4b6c77eb.chunk.css.map",
+    "static/js/2.1ccf9764.chunk.js.LICENSE.txt": "/react-three-example-flip-camera/static/js/2.1ccf9764.chunk.js.LICENSE.txt",
     "static/js/worker.28df8f3c.worker.js": "/react-three-example-flip-camera/static/js/worker.28df8f3c.worker.js",
     "static/js/worker.28df8f3c.worker.js.map": "/react-three-example-flip-camera/static/js/worker.28df8f3c.worker.js.map",
     "zcv/zcv.wasm": "/react-three-example-flip-camera/zcv/zcv.wasm"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b19edd6.js",
-    "static/js/2.f209421f.chunk.js",
-    "static/css/main.559d2a52.chunk.css",
-    "static/js/main.2a44fc38.chunk.js"
+    "static/js/runtime-main.2b27a4e4.js",
+    "static/js/2.1ccf9764.chunk.js",
+    "static/css/main.4b6c77eb.chunk.css",
+    "static/js/main.922c1229.chunk.js"
   ]
 }
