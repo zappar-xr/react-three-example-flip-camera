@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-three-example-flip-camera/static/css/main.559d2a52.chunk.css",
-    "main.js": "/react-three-example-flip-camera/static/js/main.54d01cf8.chunk.js",
-    "main.js.map": "/react-three-example-flip-camera/static/js/main.54d01cf8.chunk.js.map",
-    "runtime-main.js": "/react-three-example-flip-camera/static/js/runtime-main.b98cb90a.js",
-    "runtime-main.js.map": "/react-three-example-flip-camera/static/js/runtime-main.b98cb90a.js.map",
-    "static/js/2.b2556ae4.chunk.js": "/react-three-example-flip-camera/static/js/2.b2556ae4.chunk.js",
-    "static/js/2.b2556ae4.chunk.js.map": "/react-three-example-flip-camera/static/js/2.b2556ae4.chunk.js.map",
-    "static/js/3.7bc2a934.chunk.js": "/react-three-example-flip-camera/static/js/3.7bc2a934.chunk.js",
-    "static/js/3.7bc2a934.chunk.js.map": "/react-three-example-flip-camera/static/js/3.7bc2a934.chunk.js.map",
-    "face_tracking_model.zbin": "/react-three-example-flip-camera/482727c0e7dd40d73f5aae47f238ad61.zbin",
-    "face_mesh_face_model.zbin": "/react-three-example-flip-camera/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
-    "face_mesh_full_head_simplified_model.zbin": "/react-three-example-flip-camera/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
-    "index.html": "/react-three-example-flip-camera/index.html",
-    "static/css/main.559d2a52.chunk.css.map": "/react-three-example-flip-camera/static/css/main.559d2a52.chunk.css.map",
-    "static/js/2.b2556ae4.chunk.js.LICENSE.txt": "/react-three-example-flip-camera/static/js/2.b2556ae4.chunk.js.LICENSE.txt",
-    "static/js/worker.bc0457d9.worker.js": "/react-three-example-flip-camera/static/js/worker.bc0457d9.worker.js",
-    "static/js/worker.bc0457d9.worker.js.map": "/react-three-example-flip-camera/static/js/worker.bc0457d9.worker.js.map",
-    "zcv/zcv.wasm": "/react-three-example-flip-camera/zcv/zcv.wasm"
+    "main.css": "./static/css/main.559d2a52.chunk.css",
+    "main.js": "./static/js/main.0829d5a2.chunk.js",
+    "main.js.map": "./static/js/main.0829d5a2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.239dd840.js",
+    "runtime-main.js.map": "./static/js/runtime-main.239dd840.js.map",
+    "static/js/2.393da208.chunk.js": "./static/js/2.393da208.chunk.js",
+    "static/js/2.393da208.chunk.js.map": "./static/js/2.393da208.chunk.js.map",
+    "static/js/3.b223b724.chunk.js": "./static/js/3.b223b724.chunk.js",
+    "static/js/3.b223b724.chunk.js.map": "./static/js/3.b223b724.chunk.js.map",
+    "face_tracking_model.zbin": "./482727c0e7dd40d73f5aae47f238ad61.zbin",
+    "face_mesh_face_model.zbin": "./b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
+    "face_mesh_full_head_simplified_model.zbin": "./f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
+    "index.html": "./index.html",
+    "static/css/main.559d2a52.chunk.css.map": "./static/css/main.559d2a52.chunk.css.map",
+    "static/js/2.393da208.chunk.js.LICENSE.txt": "./static/js/2.393da208.chunk.js.LICENSE.txt",
+    "static/js/worker.cb828df0.worker.js": "./static/js/worker.cb828df0.worker.js",
+    "static/js/worker.cb828df0.worker.js.map": "./static/js/worker.cb828df0.worker.js.map",
+    "static/js/zcv.wasm": "./static/js/zcv.wasm"
   },
   "entrypoints": [
-    "static/js/runtime-main.b98cb90a.js",
-    "static/js/2.b2556ae4.chunk.js",
+    "static/js/runtime-main.239dd840.js",
+    "static/js/2.393da208.chunk.js",
     "static/css/main.559d2a52.chunk.css",
-    "static/js/main.54d01cf8.chunk.js"
+    "static/js/main.0829d5a2.chunk.js"
   ]
 }
